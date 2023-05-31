@@ -1,2 +1,7 @@
 # encriptadorTextoAlura
-Proyecto del challenge 1 de Alura el cual es un encriptador de texto en el cual tu ingresas el texto y te devuelve la encriptación y visceversa
+Proyecto del challenge 1 de Alura
+
+El siguiente proyecto se trata de un encriptador de texto pensado para ingresar cualquier texto 
+que se te ocurra dentro del mismo y este se encargará de imprimir el texto encriptado, 
+así mismo el encriptador también está diseñado para que puedas ingresar un texto encriptado y 
+este te devolverá el texto desencriptado.
